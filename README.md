@@ -1,4 +1,3 @@
-<img width="1433" alt="todo" src="https://github.com/user-attachments/assets/d9021f61-ce52-4069-8a7d-1ac59fb5e078" />
 
 📝 Flask To-Do List App
 A simple app to manage your tasks, built with Flask and SQLite.
@@ -24,6 +23,9 @@ todo.db: SQLite database.
 
 
 🎉 Happy task managing!
+
+
+<img width="1433" alt="todo" src="https://github.com/user-attachments/assets/d9021f61-ce52-4069-8a7d-1ac59fb5e078" />
 
 
 
