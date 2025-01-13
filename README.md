@@ -1,21 +1,27 @@
-#📝 **Flask To-Do List App**
 
-A simple, user-friendly To-Do List application built with Flask, designed to help you stay organized and productive.
-
-##🌟 **Features**
--Add Tasks: Add tasks quickly and easily.
--Mark as Complete: Mark tasks as complete with one click.
--View Tasks: Separate views for completed and incomplete tasks.
--Persistent Storage: Tasks are saved in an SQLite database.
--Minimalist UI: Clean and intuitive design with CSS customization.
+<img width="1433" alt="todo" src="https://github.com/user-attachments/assets/e67af892-3924-4714-b421-acd0a5f4f83d" />
 
 
-##🚀 **Technologies Used**
--Backend: Flask (Python)
--Frontend: HTML (Jinja2 templates), CSS
--Database: SQLite
 
 
-*How it looks!!*
+# 📝 Flask To-Do List App
 
-<img width="1433" alt="todo" src="https://github.com/user-attachments/assets/7b934832-addb-47a7-b923-9f12a7bb01bd" />
+A simple and elegant To-Do List application built with **Flask** that allows users to add, view, and mark tasks as complete. This project demonstrates basic CRUD operations, a well-structured Flask app, and integration with an SQLite database.
+
+## 📋 Features
+
+- **Add Tasks**: Quickly add tasks to your to-do list.
+- **Mark as Complete**: Mark tasks as complete with a single click.
+- **View Tasks**: View incomplete and completed tasks separately.
+- **Database Integration**: Persistent storage using SQLite.
+- **Simple UI**: Minimalist interface with customizable styles using CSS.
+
+## 🚀 Technologies Used
+
+- **Python** (Flask Framework)
+- **HTML** (Jinja2 Templates)
+- **CSS**
+- **SQLite** (Database)
+
+
+
